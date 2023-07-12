@@ -401,7 +401,7 @@ ul li:first-child{
 
     .mainImg {
         width: 178px;
-        top: -218px;
+        top: -43px;
         left: 52px;
     }
 
@@ -435,6 +435,7 @@ ul li:first-child{
     }
     .buy-product div div {
         margin-top: 26px;
+        padding: 8px 6px;
     }
     .product {
         margin: 0 148px;
