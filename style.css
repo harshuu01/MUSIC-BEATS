@@ -392,3 +392,91 @@ ul li:first-child{
     scale: 0.8;
 
 }
+
+/* responsive */
+@media(max-width: 367px){
+    .nav-right-section {
+        margin-left: 201px;
+    }
+
+    .mainImg {
+        width: 178px;
+        top: -43px;
+        left: 52px;
+    }
+
+    .main {
+        margin-left: 103px;
+    }
+    .shopping-bag-section{
+        gap: 13px;
+        padding: 1px 48px;
+    }
+    .social-media-section {
+        top: 19px;
+        margin-bottom: 60px;
+        margin-left: 226px;
+    }
+    .social-media-section img {
+        scale: 0.6;
+    }
+    .specification {
+        margin-left: 318px;
+    }
+    .case {
+        margin-left: 238px;
+    }
+    .buy-product {
+        margin-left: 346px;
+    }
+    .buy-product div h3 {
+        font-size: 16px;
+        margin-bottom: 22px;
+    }
+    .buy-product div div {
+        margin-top: 26px;
+        padding: 8px 6px;
+    }
+    .product {
+        margin: 0 148px;
+        margin-top: 100px;
+    }
+    .product-items {
+        padding-left: 138px;
+        gap: 76px;
+    }
+    .buy-product {
+        margin-top: 0px;
+        padding: 13px 0;
+        gap: 95px;
+    }
+    .footer-logo {
+        scale: 0.7;
+    }
+    ul li:first-child {
+        margin-bottom: 20px;
+    }
+    ul li:first-child a {
+        font-size: 14px;
+    }
+    .subscribe-button {
+        padding: 14px 32px;
+        gap: 2px;
+    }
+    .footer-subscription div:last-child img {
+        margin-right: 0px;
+    }
+    .arrow-up {
+        position: static;
+        scale: 0.7;
+    }
+    footer ul{
+        margin: 10px 32px;
+    }
+    footer {
+        margin: 69px;
+    }
+    .nav-right-section button {
+        padding: 5px 25px;
+    }
+}
